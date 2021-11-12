@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        /* Acionando os cruso e carga do horário xp */
+        /* Acionando os curso e carga do horário xp */
 
         Curso curso1 = new Curso();
         curso1.setTitulo("curso: Analise e Desenvolvimento de Sistema\n");
